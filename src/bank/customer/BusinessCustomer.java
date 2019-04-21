@@ -2,9 +2,8 @@ package bank.customer;
 
 import java.util.LinkedList;
 import java.util.List;
-
-import test.bank.products.Account;
-import test.bank.products.Credit;
+import bank.products.Account;
+import bank.products.Credit;
 
 
 public class BusinessCustomer {

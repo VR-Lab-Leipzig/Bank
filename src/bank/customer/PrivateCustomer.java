@@ -3,9 +3,9 @@ package bank.customer;
 import java.util.LinkedList;
 import java.util.List;
 
-import test.bank.products.Account;
-import test.bank.products.BankBook;
-import test.bank.products.Credit;
+import bank.products.Account;
+import bank.products.BankBook;
+import bank.products.Credit;
 
 
 public class PrivateCustomer {
